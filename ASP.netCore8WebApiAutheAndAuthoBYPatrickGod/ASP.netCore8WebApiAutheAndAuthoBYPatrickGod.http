@@ -1,0 +1,6 @@
+@ASP.netCore8WebApiAutheAndAuthoBYPatrickGod_HostAddress = http://localhost:5276
+
+GET {{ASP.netCore8WebApiAutheAndAuthoBYPatrickGod_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

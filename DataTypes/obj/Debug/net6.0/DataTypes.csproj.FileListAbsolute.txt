@@ -1,0 +1,14 @@
+F:\Vraj\DataTypes\obj\Debug\net6.0\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+F:\Vraj\DataTypes\obj\Debug\net6.0\DataTypes.AssemblyInfoInputs.cache
+F:\Vraj\DataTypes\obj\Debug\net6.0\DataTypes.AssemblyInfo.cs
+F:\Vraj\DataTypes\obj\Debug\net6.0\DataTypes.csproj.CoreCompileInputs.cache
+F:\Vraj\DataTypes\bin\Debug\net6.0\DataTypes.exe
+F:\Vraj\DataTypes\bin\Debug\net6.0\DataTypes.deps.json
+F:\Vraj\DataTypes\bin\Debug\net6.0\DataTypes.runtimeconfig.json
+F:\Vraj\DataTypes\bin\Debug\net6.0\DataTypes.dll
+F:\Vraj\DataTypes\bin\Debug\net6.0\DataTypes.pdb
+F:\Vraj\DataTypes\obj\Debug\net6.0\DataTypes.dll
+F:\Vraj\DataTypes\obj\Debug\net6.0\refint\DataTypes.dll
+F:\Vraj\DataTypes\obj\Debug\net6.0\DataTypes.pdb
+F:\Vraj\DataTypes\obj\Debug\net6.0\DataTypes.genruntimeconfig.cache
+F:\Vraj\DataTypes\obj\Debug\net6.0\ref\DataTypes.dll

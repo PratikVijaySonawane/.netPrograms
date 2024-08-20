@@ -1,0 +1,14 @@
+F:\Pratik\Encapsulation\bin\Debug\net6.0\Encapsulation.exe
+F:\Pratik\Encapsulation\bin\Debug\net6.0\Encapsulation.deps.json
+F:\Pratik\Encapsulation\bin\Debug\net6.0\Encapsulation.runtimeconfig.json
+F:\Pratik\Encapsulation\bin\Debug\net6.0\Encapsulation.dll
+F:\Pratik\Encapsulation\bin\Debug\net6.0\Encapsulation.pdb
+F:\Pratik\Encapsulation\obj\Debug\net6.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+F:\Pratik\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfoInputs.cache
+F:\Pratik\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfo.cs
+F:\Pratik\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.CoreCompileInputs.cache
+F:\Pratik\Encapsulation\obj\Debug\net6.0\Encapsulation.dll
+F:\Pratik\Encapsulation\obj\Debug\net6.0\refint\Encapsulation.dll
+F:\Pratik\Encapsulation\obj\Debug\net6.0\Encapsulation.pdb
+F:\Pratik\Encapsulation\obj\Debug\net6.0\Encapsulation.genruntimeconfig.cache
+F:\Pratik\Encapsulation\obj\Debug\net6.0\ref\Encapsulation.dll

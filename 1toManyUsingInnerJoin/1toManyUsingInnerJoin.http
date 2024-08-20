@@ -1,0 +1,6 @@
+@_1toManyUsingInnerJoin_HostAddress = http://localhost:5010
+
+GET {{_1toManyUsingInnerJoin_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

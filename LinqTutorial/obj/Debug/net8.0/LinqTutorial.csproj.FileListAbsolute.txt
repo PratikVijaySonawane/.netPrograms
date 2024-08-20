@@ -1,0 +1,15 @@
+F:\Pratik\LinqTutorial\bin\Debug\net8.0\LinqTutorial.exe
+F:\Pratik\LinqTutorial\bin\Debug\net8.0\LinqTutorial.deps.json
+F:\Pratik\LinqTutorial\bin\Debug\net8.0\LinqTutorial.runtimeconfig.json
+F:\Pratik\LinqTutorial\bin\Debug\net8.0\LinqTutorial.dll
+F:\Pratik\LinqTutorial\bin\Debug\net8.0\LinqTutorial.pdb
+F:\Pratik\LinqTutorial\obj\Debug\net8.0\LinqTutorial.GeneratedMSBuildEditorConfig.editorconfig
+F:\Pratik\LinqTutorial\obj\Debug\net8.0\LinqTutorial.AssemblyInfoInputs.cache
+F:\Pratik\LinqTutorial\obj\Debug\net8.0\LinqTutorial.AssemblyInfo.cs
+F:\Pratik\LinqTutorial\obj\Debug\net8.0\LinqTutorial.csproj.CoreCompileInputs.cache
+F:\Pratik\LinqTutorial\obj\Debug\net8.0\LinqTutorial.sourcelink.json
+F:\Pratik\LinqTutorial\obj\Debug\net8.0\LinqTutorial.dll
+F:\Pratik\LinqTutorial\obj\Debug\net8.0\refint\LinqTutorial.dll
+F:\Pratik\LinqTutorial\obj\Debug\net8.0\LinqTutorial.pdb
+F:\Pratik\LinqTutorial\obj\Debug\net8.0\LinqTutorial.genruntimeconfig.cache
+F:\Pratik\LinqTutorial\obj\Debug\net8.0\ref\LinqTutorial.dll

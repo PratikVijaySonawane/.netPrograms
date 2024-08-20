@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4Nt90wkS9DyMwUqEqZZzZJ/THnNLfa3VjUUzGZ0WH2w=",
+  "Source": "RoutAttributeBasedRouting",
+  "BasePath": "_content/RoutAttributeBasedRouting",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

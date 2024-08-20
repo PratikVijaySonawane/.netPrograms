@@ -1,0 +1,14 @@
+F:\Pratik\ArraysProgs\bin\Debug\net6.0\ArraysProgs.exe
+F:\Pratik\ArraysProgs\bin\Debug\net6.0\ArraysProgs.deps.json
+F:\Pratik\ArraysProgs\bin\Debug\net6.0\ArraysProgs.runtimeconfig.json
+F:\Pratik\ArraysProgs\bin\Debug\net6.0\ArraysProgs.dll
+F:\Pratik\ArraysProgs\bin\Debug\net6.0\ArraysProgs.pdb
+F:\Pratik\ArraysProgs\obj\Debug\net6.0\ArraysProgs.GeneratedMSBuildEditorConfig.editorconfig
+F:\Pratik\ArraysProgs\obj\Debug\net6.0\ArraysProgs.AssemblyInfoInputs.cache
+F:\Pratik\ArraysProgs\obj\Debug\net6.0\ArraysProgs.AssemblyInfo.cs
+F:\Pratik\ArraysProgs\obj\Debug\net6.0\ArraysProgs.csproj.CoreCompileInputs.cache
+F:\Pratik\ArraysProgs\obj\Debug\net6.0\ArraysProgs.dll
+F:\Pratik\ArraysProgs\obj\Debug\net6.0\refint\ArraysProgs.dll
+F:\Pratik\ArraysProgs\obj\Debug\net6.0\ArraysProgs.pdb
+F:\Pratik\ArraysProgs\obj\Debug\net6.0\ArraysProgs.genruntimeconfig.cache
+F:\Pratik\ArraysProgs\obj\Debug\net6.0\ref\ArraysProgs.dll

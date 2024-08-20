@@ -1,0 +1,6 @@
+@BloggingApplicationWithDarpan_HostAddress = http://localhost:5297
+
+GET {{BloggingApplicationWithDarpan_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

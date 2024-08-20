@@ -1,0 +1,14 @@
+F:\Pratik\Collections\bin\Debug\net6.0\Collections.exe
+F:\Pratik\Collections\bin\Debug\net6.0\Collections.dll
+F:\Pratik\Collections\obj\Debug\net6.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+F:\Pratik\Collections\obj\Debug\net6.0\Collections.AssemblyInfoInputs.cache
+F:\Pratik\Collections\obj\Debug\net6.0\Collections.AssemblyInfo.cs
+F:\Pratik\Collections\obj\Debug\net6.0\Collections.csproj.CoreCompileInputs.cache
+F:\Pratik\Collections\obj\Debug\net6.0\Collections.dll
+F:\Pratik\Collections\obj\Debug\net6.0\refint\Collections.dll
+F:\Pratik\Collections\obj\Debug\net6.0\Collections.pdb
+F:\Pratik\Collections\bin\Debug\net6.0\Collections.deps.json
+F:\Pratik\Collections\bin\Debug\net6.0\Collections.runtimeconfig.json
+F:\Pratik\Collections\bin\Debug\net6.0\Collections.pdb
+F:\Pratik\Collections\obj\Debug\net6.0\Collections.genruntimeconfig.cache
+F:\Pratik\Collections\obj\Debug\net6.0\ref\Collections.dll

@@ -1,0 +1,14 @@
+F:\Pratik\SwichCase Using c#\obj\Debug\net6.0\SwichCase Using c#.GeneratedMSBuildEditorConfig.editorconfig
+F:\Pratik\SwichCase Using c#\obj\Debug\net6.0\SwichCase Using c#.AssemblyInfoInputs.cache
+F:\Pratik\SwichCase Using c#\obj\Debug\net6.0\SwichCase Using c#.AssemblyInfo.cs
+F:\Pratik\SwichCase Using c#\obj\Debug\net6.0\SwichCase Using c#.csproj.CoreCompileInputs.cache
+F:\Pratik\SwichCase Using c#\bin\Debug\net6.0\SwichCase Using c#.exe
+F:\Pratik\SwichCase Using c#\bin\Debug\net6.0\SwichCase Using c#.deps.json
+F:\Pratik\SwichCase Using c#\bin\Debug\net6.0\SwichCase Using c#.runtimeconfig.json
+F:\Pratik\SwichCase Using c#\bin\Debug\net6.0\SwichCase Using c#.dll
+F:\Pratik\SwichCase Using c#\bin\Debug\net6.0\SwichCase Using c#.pdb
+F:\Pratik\SwichCase Using c#\obj\Debug\net6.0\SwichCase Using c#.dll
+F:\Pratik\SwichCase Using c#\obj\Debug\net6.0\refint\SwichCase Using c#.dll
+F:\Pratik\SwichCase Using c#\obj\Debug\net6.0\SwichCase Using c#.pdb
+F:\Pratik\SwichCase Using c#\obj\Debug\net6.0\SwichCase Using c#.genruntimeconfig.cache
+F:\Pratik\SwichCase Using c#\obj\Debug\net6.0\ref\SwichCase Using c#.dll

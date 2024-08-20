@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CRUDwith.net8WebApi.props" />
+</Project>

@@ -1,0 +1,12 @@
+F:\Pratik\TCPData\bin\Debug\net8.0\TCPData.deps.json
+F:\Pratik\TCPData\bin\Debug\net8.0\TCPData.dll
+F:\Pratik\TCPData\bin\Debug\net8.0\TCPData.pdb
+F:\Pratik\TCPData\obj\Debug\net8.0\TCPData.GeneratedMSBuildEditorConfig.editorconfig
+F:\Pratik\TCPData\obj\Debug\net8.0\TCPData.AssemblyInfoInputs.cache
+F:\Pratik\TCPData\obj\Debug\net8.0\TCPData.AssemblyInfo.cs
+F:\Pratik\TCPData\obj\Debug\net8.0\TCPData.csproj.CoreCompileInputs.cache
+F:\Pratik\TCPData\obj\Debug\net8.0\TCPData.sourcelink.json
+F:\Pratik\TCPData\obj\Debug\net8.0\TCPData.dll
+F:\Pratik\TCPData\obj\Debug\net8.0\refint\TCPData.dll
+F:\Pratik\TCPData\obj\Debug\net8.0\TCPData.pdb
+F:\Pratik\TCPData\obj\Debug\net8.0\ref\TCPData.dll

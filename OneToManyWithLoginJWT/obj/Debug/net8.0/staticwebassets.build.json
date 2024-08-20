@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KKiliJ1uIdPW/TLQn5ZWKx0A3HWP2qbxH32YZWpdc5k=",
+  "Source": "OneToManyWithLoginJWT",
+  "BasePath": "_content/OneToManyWithLoginJWT",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

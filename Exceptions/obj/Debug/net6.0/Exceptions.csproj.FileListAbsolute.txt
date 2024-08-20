@@ -1,0 +1,14 @@
+F:\Pratik\Exceptions\bin\Debug\net6.0\Exceptions.exe
+F:\Pratik\Exceptions\bin\Debug\net6.0\Exceptions.deps.json
+F:\Pratik\Exceptions\bin\Debug\net6.0\Exceptions.runtimeconfig.json
+F:\Pratik\Exceptions\bin\Debug\net6.0\Exceptions.dll
+F:\Pratik\Exceptions\bin\Debug\net6.0\Exceptions.pdb
+F:\Pratik\Exceptions\obj\Debug\net6.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+F:\Pratik\Exceptions\obj\Debug\net6.0\Exceptions.AssemblyInfoInputs.cache
+F:\Pratik\Exceptions\obj\Debug\net6.0\Exceptions.AssemblyInfo.cs
+F:\Pratik\Exceptions\obj\Debug\net6.0\Exceptions.csproj.CoreCompileInputs.cache
+F:\Pratik\Exceptions\obj\Debug\net6.0\Exceptions.dll
+F:\Pratik\Exceptions\obj\Debug\net6.0\refint\Exceptions.dll
+F:\Pratik\Exceptions\obj\Debug\net6.0\Exceptions.pdb
+F:\Pratik\Exceptions\obj\Debug\net6.0\Exceptions.genruntimeconfig.cache
+F:\Pratik\Exceptions\obj\Debug\net6.0\ref\Exceptions.dll

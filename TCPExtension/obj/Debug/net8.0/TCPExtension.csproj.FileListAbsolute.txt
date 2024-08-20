@@ -1,0 +1,12 @@
+F:\Pratik\TCPExtension\bin\Debug\net8.0\TCPExtension.deps.json
+F:\Pratik\TCPExtension\bin\Debug\net8.0\TCPExtension.dll
+F:\Pratik\TCPExtension\bin\Debug\net8.0\TCPExtension.pdb
+F:\Pratik\TCPExtension\obj\Debug\net8.0\TCPExtension.GeneratedMSBuildEditorConfig.editorconfig
+F:\Pratik\TCPExtension\obj\Debug\net8.0\TCPExtension.AssemblyInfoInputs.cache
+F:\Pratik\TCPExtension\obj\Debug\net8.0\TCPExtension.AssemblyInfo.cs
+F:\Pratik\TCPExtension\obj\Debug\net8.0\TCPExtension.csproj.CoreCompileInputs.cache
+F:\Pratik\TCPExtension\obj\Debug\net8.0\TCPExtension.sourcelink.json
+F:\Pratik\TCPExtension\obj\Debug\net8.0\TCPExtension.dll
+F:\Pratik\TCPExtension\obj\Debug\net8.0\refint\TCPExtension.dll
+F:\Pratik\TCPExtension\obj\Debug\net8.0\TCPExtension.pdb
+F:\Pratik\TCPExtension\obj\Debug\net8.0\ref\TCPExtension.dll

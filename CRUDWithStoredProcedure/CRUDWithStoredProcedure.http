@@ -1,0 +1,6 @@
+@CRUDWithStoredProcedure_HostAddress = http://localhost:5121
+
+GET {{CRUDWithStoredProcedure_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

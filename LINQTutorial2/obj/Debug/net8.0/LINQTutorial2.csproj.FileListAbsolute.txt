@@ -1,0 +1,15 @@
+F:\Pratik\LINQTutorial2\bin\Debug\net8.0\LINQTutorial2.exe
+F:\Pratik\LINQTutorial2\bin\Debug\net8.0\LINQTutorial2.deps.json
+F:\Pratik\LINQTutorial2\bin\Debug\net8.0\LINQTutorial2.runtimeconfig.json
+F:\Pratik\LINQTutorial2\bin\Debug\net8.0\LINQTutorial2.dll
+F:\Pratik\LINQTutorial2\bin\Debug\net8.0\LINQTutorial2.pdb
+F:\Pratik\LINQTutorial2\obj\Debug\net8.0\LINQTutorial2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Pratik\LINQTutorial2\obj\Debug\net8.0\LINQTutorial2.AssemblyInfoInputs.cache
+F:\Pratik\LINQTutorial2\obj\Debug\net8.0\LINQTutorial2.AssemblyInfo.cs
+F:\Pratik\LINQTutorial2\obj\Debug\net8.0\LINQTutorial2.csproj.CoreCompileInputs.cache
+F:\Pratik\LINQTutorial2\obj\Debug\net8.0\LINQTutorial2.sourcelink.json
+F:\Pratik\LINQTutorial2\obj\Debug\net8.0\LINQTutorial2.dll
+F:\Pratik\LINQTutorial2\obj\Debug\net8.0\refint\LINQTutorial2.dll
+F:\Pratik\LINQTutorial2\obj\Debug\net8.0\LINQTutorial2.pdb
+F:\Pratik\LINQTutorial2\obj\Debug\net8.0\LINQTutorial2.genruntimeconfig.cache
+F:\Pratik\LINQTutorial2\obj\Debug\net8.0\ref\LINQTutorial2.dll

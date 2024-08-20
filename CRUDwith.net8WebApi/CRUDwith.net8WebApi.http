@@ -1,0 +1,6 @@
+@CRUDwith.net8WebApi_HostAddress = http://localhost:5079
+
+GET {{CRUDwith.net8WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

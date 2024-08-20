@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\1toManyUsingInnerJoin.props" />
+</Project>

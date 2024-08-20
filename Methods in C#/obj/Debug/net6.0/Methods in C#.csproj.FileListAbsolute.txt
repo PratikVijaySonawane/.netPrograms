@@ -1,0 +1,14 @@
+F:\Pratik\Methods in C#\bin\Debug\net6.0\Methods in C#.exe
+F:\Pratik\Methods in C#\bin\Debug\net6.0\Methods in C#.deps.json
+F:\Pratik\Methods in C#\bin\Debug\net6.0\Methods in C#.runtimeconfig.json
+F:\Pratik\Methods in C#\bin\Debug\net6.0\Methods in C#.dll
+F:\Pratik\Methods in C#\bin\Debug\net6.0\Methods in C#.pdb
+F:\Pratik\Methods in C#\obj\Debug\net6.0\Methods in C#.GeneratedMSBuildEditorConfig.editorconfig
+F:\Pratik\Methods in C#\obj\Debug\net6.0\Methods in C#.AssemblyInfoInputs.cache
+F:\Pratik\Methods in C#\obj\Debug\net6.0\Methods in C#.AssemblyInfo.cs
+F:\Pratik\Methods in C#\obj\Debug\net6.0\Methods in C#.csproj.CoreCompileInputs.cache
+F:\Pratik\Methods in C#\obj\Debug\net6.0\Methods in C#.dll
+F:\Pratik\Methods in C#\obj\Debug\net6.0\refint\Methods in C#.dll
+F:\Pratik\Methods in C#\obj\Debug\net6.0\Methods in C#.pdb
+F:\Pratik\Methods in C#\obj\Debug\net6.0\Methods in C#.genruntimeconfig.cache
+F:\Pratik\Methods in C#\obj\Debug\net6.0\ref\Methods in C#.dll

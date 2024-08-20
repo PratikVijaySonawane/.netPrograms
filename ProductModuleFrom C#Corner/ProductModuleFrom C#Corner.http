@@ -1,0 +1,6 @@
+@ProductModuleFrom_C_Corner_HostAddress = http://localhost:5179
+
+GET {{ProductModuleFrom_C_Corner_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

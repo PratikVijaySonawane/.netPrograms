@@ -1,0 +1,6 @@
+@AuthAndAutherizeFromC_corner_HostAddress = http://localhost:5230
+
+GET {{AuthAndAutherizeFromC_corner_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

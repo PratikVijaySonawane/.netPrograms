@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jUsEmQnnSFyKGorl70DEionTpu7x/39QJS/A1GaUijo=",
+  "Source": "CRUDWithStoredProcedure",
+  "BasePath": "_content/CRUDWithStoredProcedure",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

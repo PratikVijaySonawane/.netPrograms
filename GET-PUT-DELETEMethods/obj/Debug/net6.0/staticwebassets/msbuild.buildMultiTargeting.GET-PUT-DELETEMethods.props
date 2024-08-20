@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GET-PUT-DELETEMethods.props" />
+</Project>

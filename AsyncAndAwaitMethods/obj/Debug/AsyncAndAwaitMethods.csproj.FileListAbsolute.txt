@@ -1,0 +1,7 @@
+F:\Pratik\AsyncAndAwaitMethods\bin\Debug\AsyncAndAwaitMethods.exe.config
+F:\Pratik\AsyncAndAwaitMethods\bin\Debug\AsyncAndAwaitMethods.exe
+F:\Pratik\AsyncAndAwaitMethods\bin\Debug\AsyncAndAwaitMethods.pdb
+F:\Pratik\AsyncAndAwaitMethods\obj\Debug\AsyncAndAwaitMethods.csproj.AssemblyReference.cache
+F:\Pratik\AsyncAndAwaitMethods\obj\Debug\AsyncAndAwaitMethods.csproj.CoreCompileInputs.cache
+F:\Pratik\AsyncAndAwaitMethods\obj\Debug\AsyncAndAwaitMethods.exe
+F:\Pratik\AsyncAndAwaitMethods\obj\Debug\AsyncAndAwaitMethods.pdb
